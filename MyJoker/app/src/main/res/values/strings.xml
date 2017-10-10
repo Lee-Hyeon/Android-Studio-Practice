@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Jokes App</string>
+    <string name="b_toast1">I\'m not lazy</string>
+    <string name="b_toast2">I love my job</string>
+    <string name="b_toast3">A balanced diet</string>
+    <string name="b_msg1">to err is human</string>
+    <string name="b_msg2">only young once</string>
+    <string name="b_msg3">smile today</string>
+    <string name="b_msg4">never let a fool kiss you</string>
+    <string name="tv_msg_output">Your message here</string>
+    <string name="Answer1">I\'m just very relaxed.</string>
+    <string name="Answer2">Especially on weekends.</string>
+    <string name="Answer3">A cupcake in each hand.</string>
+    <string name="Answer4">To blame someone else is even more human!</string>
+    <string name="Answer5">Immature forever!</string>
+    <string name="Answer6">Tomorrow could be worse</string>
+    <string name="Answer7">Never let a kiss fool you either.</string>
+</resources>
