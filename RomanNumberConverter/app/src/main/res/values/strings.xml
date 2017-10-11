@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Roman Number Converter(1-9999)</string>
+    <string name="pt_NtoR_hint">Enter a number</string>
+    <string name="pt_RtoN_hint">Enter a Roman Number</string>
+    <string name="b_NtoR">convert to roman</string>
+    <string name="b_RtoN">convert to number</string>
+    <string name="tv_romanOutput"></string>
+    <string name="tv_numberOutput"></string>
+
+</resources>
